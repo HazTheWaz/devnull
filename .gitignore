@@ -75,3 +75,5 @@ typings/
 
 # Config
 config.json
+permissions.json
+alias.json
